@@ -15,3 +15,4 @@ This is a training course presented by Zura (The Codeholic) on [YouTube](https:/
 - Inertia.js
 - React.js
 - Tailwind CSS
+- daisyUI
