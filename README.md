@@ -12,6 +12,7 @@ This is a training course presented by Zura (The Codeholic) on [YouTube](https:/
 
 - Laravel
 - SQLite
+- Filament PHP
 - Inertia.js
 - React.js
 - Tailwind CSS
